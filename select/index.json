@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Screw Driver",
+  "base_artist": "SKRYU",
+  "createdAt": "2025-12-12T06:25:37.160161Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Screw Driver",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Screw_Driver_SKRYU.txt"
+    }
+  ]
+}
